@@ -1,6 +1,6 @@
 ## AndroidStudio
 <img src="https://forthebadge.com/images/badges/made-with-java.svg"> <img src="https://forthebadge.com/images/badges/built-for-android.svg">
-______
+
 <br>
 
 ## Demo
