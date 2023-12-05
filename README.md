@@ -1,6 +1,8 @@
 ## AndroidStudio
 <img src="https://forthebadge.com/images/badges/made-with-java.svg"> <img src="https://forthebadge.com/images/badges/built-for-android.svg">
-<br><br>
+______
+<br>
+
 ## Demo
 > ### f2c => https://youtu.be/0sSku8K1wrk
 > ### login => https://youtube.com/shorts/87RmkEMayFU
