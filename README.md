@@ -1,7 +1,5 @@
-## AndroidStudio
-<img src="https://forthebadge.com/images/badges/made-with-java.svg"> <img src="https://forthebadge.com/images/badges/built-for-android.svg">
-
-<br>
+# AndroidStudio
+![GitHub last commit](https://img.shields.io/github/last-commit/Xiang511/AndroidStudio?style=for-the-badge&color=red)  ![Github Created At](https://img.shields.io/github/created-at/Xiang511/AndroidStudio?style=for-the-badge&logo=androidstudio&color=red)
 
 ## Demo
 > ### f2c => https://youtu.be/0sSku8K1wrk
