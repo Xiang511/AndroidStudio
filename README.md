@@ -17,6 +17,9 @@ These apps are written in java.
 ```
 https://developer.android.com/studio?hl=zh-tw
 ```
+```
+https://developer.android.com/studio/releases/past-releases/as-electric-eel-release-notes
+```
 ## Usage
 ```
 https://www.youtube.com/watch?v=6pJqYvge8TY&list=PLPh5-KovAYtFyX5elSTT9wEMt0HxMhR7L
