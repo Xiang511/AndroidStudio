@@ -5,8 +5,12 @@ Android Studio self practice , Use the 2019 version.
 
 These apps are written in java. 
 
-
-
+### Features
+- 溫度轉換
+- 登入頁面
+- 基本計算機
+- 使用SQLite
+- 使用App對MSSQL進行CRUD操作
 </br>
 
 ## Installation
